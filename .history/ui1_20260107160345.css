@@ -22,17 +22,12 @@ body{
     margin-left: 2rem;
 }
 
-.header .haert{
-    font-weight: bold;
-    font-size: 2rem;
-    margin-left: 2rem;
-}
 
-.header .navbar {
+/* .header .navbar a{
     font-weight: bold;
     font-size: 2rem;
     margin-left: 2rem;
-}
+} */
 
 .main {
 

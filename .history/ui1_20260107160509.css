@@ -22,11 +22,7 @@ body{
     margin-left: 2rem;
 }
 
-.header .haert{
-    font-weight: bold;
-    font-size: 2rem;
-    margin-left: 2rem;
-}
+.header .haert
 
 .header .navbar {
     font-weight: bold;

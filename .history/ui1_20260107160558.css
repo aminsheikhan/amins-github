@@ -29,7 +29,7 @@ body{
 }
 
 .header .navbar {
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 2rem;
     margin-left: 2rem;
 }
