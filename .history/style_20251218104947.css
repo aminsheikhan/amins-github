@@ -1,0 +1,25 @@
+.color-red{
+    color: red;
+}
+#H2-header{
+    font-size: 120;
+    font-weight: bolder;
+    color: rgb(42, 230, 61);
+}
+
+.background-yellow{
+    background-color: yellow;
+}
+
+div.background-yellow{
+    font-weight: bold;
+}
+
+p.background-yellow{
+    font-style:italic;
+}
+
+header di .purple-color{
+    color: purple;
+}
+

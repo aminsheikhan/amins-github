@@ -1,0 +1,33 @@
+.color-red{
+    color: red;
+}
+#H2-header{
+    font-size: 120;
+    font-weight: bolder;
+    color: rgb(42, 230, 61);
+}
+
+.background-yellow{
+    background-color: yellow;
+}
+
+div.background-yellow{
+    font-weight: bold;
+}
+
+p.background-yellow{
+    font-style:italic;
+}
+
+header .purple-color{
+    color: purple;
+}
+
+header div .blow-color{
+    color: rgb(34, 74, 255);
+}
+
+#first .my-text .brown-color{
+    color: rgb(255, 255, 0);
+    font-weight: bold;
+}

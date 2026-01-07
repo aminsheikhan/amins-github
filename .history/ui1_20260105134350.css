@@ -1,0 +1,24 @@
+html {
+    font-size: 100%;
+}
+
+.header {
+    background-color:#f4edc2 ;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    
+}
+
+.main {
+    background-color: #7ed6df;
+    padding: 1rem;
+}
+
+.sidebar{
+    background-color: #c0392b;
+    margin-bottom: 1rem;
+}
+
+.content{
+    
+}

@@ -1,0 +1,22 @@
+html{
+    font-family: "Vazir";
+    font-size: 100%;
+}
+
+body{
+    padding-top: 2;
+}
+
+div{
+    background-color: burlywood;
+    padding: 1.2rem;
+    color: white;
+    text-align: center;
+}
+
+header,
+section,
+aside,
+footer{
+    margin: 0 1.5rem 2rem;
+}

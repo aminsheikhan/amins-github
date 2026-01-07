@@ -1,0 +1,12 @@
+html{
+    font-family: "Vazir";
+    font-size: 100%;
+}
+
+div{
+    background-color: burlywood;
+    padding: 1.2rem;
+    color: white;
+    text-align: center;
+}
+

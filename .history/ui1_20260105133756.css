@@ -1,0 +1,15 @@
+html {
+    font-size: 100%;
+}
+
+.header {
+    background-color:#f4edc2 ;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    
+}
+
+.main {
+    background-color: blue;
+    padding: 1rem;
+}
