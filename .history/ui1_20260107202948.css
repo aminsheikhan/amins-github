@@ -60,10 +60,6 @@ body{
     border-radius: 2rem;
 }
 
-.about-section{
-    width: 100%;
-}
-
 .content{
     background-color: rgba(255, 223, 155, 0.779);
     padding: 1rem;
@@ -86,7 +82,7 @@ body{
     justify-content: center;
     align-items: center;
     height: 5rem;
-    border-radius: 2rem;
+    border-radius: 1.5rem;
     flex-basis: calc(43.33% - 0.5rem);
     min-height: 25rem;
     min-width: 18%;

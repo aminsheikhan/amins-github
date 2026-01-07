@@ -35,14 +35,11 @@ body{
 }
 
 .main {
-    width:100% ;
+
     padding: 2rem;
     margin-bottom: 1rem;
     border-radius: 3rem;
-
-    gap: 1.5rem;
-    display: grid;
-    grid-template-columns: 2fr 1fr; /* محتوا | سایدبار */
+    display: flex;
     gap: 1.5rem;
 }
 
@@ -52,16 +49,13 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 1rem;
+    font-weight: bold;
     border-radius: 2rem;
-
 }
 
 .video{
     border-radius: 2rem;
-}
-
-.about-section{
-    width: 100%;
 }
 
 .content{
@@ -86,12 +80,11 @@ body{
     justify-content: center;
     align-items: center;
     height: 5rem;
-    border-radius: 2rem;
+    border-radius: 1.5rem;
     flex-basis: calc(43.33% - 0.5rem);
     min-height: 25rem;
     min-width: 18%;
-    max-height: 25rem;
-    min-width: 18%;
+    
 }
 
 
@@ -113,7 +106,7 @@ body{
     border-radius: 2rem;
 }
 
-/* .intro-box{
+.intro-box{
     background-color: #2bc055;
     padding: 2rem;
     border-radius: 1rem;
@@ -121,7 +114,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-} */
+}
 
 .about-section{
     background-color: aquamarine;
