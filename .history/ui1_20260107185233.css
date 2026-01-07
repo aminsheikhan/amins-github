@@ -1,0 +1,136 @@
+html {
+    font-size: 100%;
+}
+
+body{
+    padding: 2rem;
+}
+
+.header {
+    background-color:#f4edc2 ;
+    border-radius: 3rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header .Brand {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+.header .haert{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+.header .navbar {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 2rem;
+}
+
+.main {
+
+    padding: 2rem;
+    margin-bottom: 1rem;
+    border-radius: 3rem;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.sidebar{
+    background-color: #2bc055;
+    flex-basis: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 2rem;
+    min-width: 35%;
+    min-height: 10rem;
+}
+
+.content{
+    background-color: rgba(255, 223, 155, 0.779);
+    padding: 1rem;
+    flex-basis: 70%;
+    border-radius: 2rem;
+}
+
+.content .course-list{
+
+    flex-wrap: wrap ;
+    margin-bottom: 1rem;
+    display: flex;
+    gap: 0.5rem;
+}
+
+.content .course-list .box{
+    background-color: rgba(0, 110, 255, 0.483);
+    flex-grow: 1;
+    display: grid;
+    /* grid-template-columns: 28% 28%; */
+    grid-template-rows: 4.5rem 4.5rem;
+    justify-content: center;
+    align-items: center;
+    height: 5rem;
+    border-radius: 1.5rem;
+    flex-basis: calc(43.33% - 0.5rem);
+    min-height: 10rem;
+    min-width: 18%;
+}
+
+
+
+
+.main-second {
+
+    margin-bottom: 1rem;
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 1rem;
+    text-align: center;
+    
+}
+
+.imgg{
+    min-height: 100%;
+    min-width: 100%;
+    border-radius: 2rem;
+}
+
+.intro-box{
+    background-color: #2bc055;
+    padding: 2rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.about-section{
+    background-color: aquamarine;
+    padding: 2rem;
+    border-radius: 1rem;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+.footer{
+    background-color:#f6ecae ;
+    margin-bottom: 1rem;
+    padding: 1rem;
+    text-align: center;
+    border-radius: 2rem;
+    font-weight: bold;
+    justify-content: center;
+}
